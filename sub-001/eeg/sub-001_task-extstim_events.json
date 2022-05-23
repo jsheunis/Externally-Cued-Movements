@@ -1,0 +1,32 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "millisecond"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "millisecond"
+  },
+  "trial_type": {
+    "Description": "Type of event (different from EEGLAB convention)",
+    "Levels": {
+      "stimulus": "Onset of visual stimulus",
+      "response": "Response to visual stimulus (left or right)"
+    }
+  },
+  "response_time": {
+    "Description": "Response time column not use for this data"
+  },
+  "value": {
+    "Description": "Value of event (numerical)",
+    "Levels": {
+      "x3": "Correct response left index finger",
+      "x4": "Correct response right index finger",
+      "x8": "Response 3 (this may be a response to question 1, 2 or 3)",
+      "x11": "Visually-cue left",
+      "x22": "Visually-cue right",
+      "x103": "Movement onset left",
+      "x104": "Movement onset right"
+    }
+  }
+}

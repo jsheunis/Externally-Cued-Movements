@@ -1,0 +1,137 @@
+Demography/BehavDataOldSubj.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 13482 bytes.
+Demography/BehavDataYoungSubj.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet) 12492 bytes.
+dataset_description.json (application/json) 276 bytes.
+participants.json (application/json) 504 bytes.
+participants.tsv (text/tsv) 782 bytes.
+README (text/plain; charset=US-ASCII) 374 bytes.
+sub-001/eeg/sub-001_task-extstim_channels.tsv (text/tsv) 719 bytes.
+sub-001/eeg/sub-001_task-extstim_coordsystem.json (application/json) 55 bytes.
+sub-001/eeg/sub-001_task-extstim_eeg.fdt (application/octet-stream) 60707200 bytes.
+sub-001/eeg/sub-001_task-extstim_eeg.json (application/json) 672 bytes.
+sub-001/eeg/sub-001_task-extstim_eeg.set (application/octet-stream) 1212680 bytes.
+sub-001/eeg/sub-001_task-extstim_electrodes.tsv (text/tsv) 1369 bytes.
+sub-001/eeg/sub-001_task-extstim_events.json (application/json) 888 bytes.
+sub-001/eeg/sub-001_task-extstim_events.tsv (text/tsv) 25658 bytes.
+sub-002_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-002/eeg/sub-002_task-extstim_eeg.set (application/octet-stream) 1095560 bytes.
+sub-002/eeg/sub-002_task-extstim_events.tsv (text/tsv) 23655 bytes.
+sub-003_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-003/eeg/sub-003_task-extstim_eeg.set (application/octet-stream) 994096 bytes.
+sub-003/eeg/sub-003_task-extstim_events.tsv (text/tsv) 17898 bytes.
+sub-004_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-004/eeg/sub-004_task-extstim_eeg.set (application/octet-stream) 1184528 bytes.
+sub-004/eeg/sub-004_task-extstim_events.tsv (text/tsv) 24716 bytes.
+sub-005_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-005/eeg/sub-005_task-extstim_eeg.set (application/octet-stream) 999720 bytes.
+sub-005/eeg/sub-005_task-extstim_events.tsv (text/tsv) 17839 bytes.
+sub-006_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-006/eeg/sub-006_task-extstim_eeg.set (application/octet-stream) 1092992 bytes.
+sub-006/eeg/sub-006_task-extstim_events.tsv (text/tsv) 23333 bytes.
+sub-007_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-007/eeg/sub-007_task-extstim_eeg.set (application/octet-stream) 1052336 bytes.
+sub-007/eeg/sub-007_task-extstim_events.tsv (text/tsv) 22677 bytes.
+sub-008_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-008/eeg/sub-008_task-extstim_eeg.set (application/octet-stream) 1146832 bytes.
+sub-008/eeg/sub-008_task-extstim_events.tsv (text/tsv) 22393 bytes.
+sub-009_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-009/eeg/sub-009_task-extstim_eeg.set (application/octet-stream) 1110880 bytes.
+sub-009/eeg/sub-009_task-extstim_events.tsv (text/tsv) 21614 bytes.
+sub-010_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-010/eeg/sub-010_task-extstim_eeg.set (application/octet-stream) 1117424 bytes.
+sub-010/eeg/sub-010_task-extstim_events.tsv (text/tsv) 21872 bytes.
+sub-011_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-011/eeg/sub-011_task-extstim_eeg.set (application/octet-stream) 970352 bytes.
+sub-011/eeg/sub-011_task-extstim_events.tsv (text/tsv) 20364 bytes.
+sub-012_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-012/eeg/sub-012_task-extstim_eeg.set (application/octet-stream) 1105816 bytes.
+sub-012/eeg/sub-012_task-extstim_events.tsv (text/tsv) 22922 bytes.
+sub-013_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-013/eeg/sub-013_task-extstim_eeg.set (application/octet-stream) 1152408 bytes.
+sub-013/eeg/sub-013_task-extstim_events.tsv (text/tsv) 24025 bytes.
+sub-014_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-014/eeg/sub-014_task-extstim_eeg.set (application/octet-stream) 1260472 bytes.
+sub-014/eeg/sub-014_task-extstim_events.tsv (text/tsv) 27240 bytes.
+sub-015_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-015/eeg/sub-015_task-extstim_eeg.set (application/octet-stream) 1239312 bytes.
+sub-015/eeg/sub-015_task-extstim_events.tsv (text/tsv) 25809 bytes.
+sub-016_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-016/eeg/sub-016_task-extstim_eeg.set (application/octet-stream) 1155448 bytes.
+sub-016/eeg/sub-016_task-extstim_events.tsv (text/tsv) 22880 bytes.
+sub-017_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-017/eeg/sub-017_task-extstim_eeg.set (application/octet-stream) 968696 bytes.
+sub-017/eeg/sub-017_task-extstim_events.tsv (text/tsv) 19537 bytes.
+sub-018_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-018/eeg/sub-018_task-extstim_eeg.set (application/octet-stream) 1114832 bytes.
+sub-018/eeg/sub-018_task-extstim_events.tsv (text/tsv) 21658 bytes.
+sub-019_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-019/eeg/sub-019_task-extstim_eeg.set (application/octet-stream) 1197464 bytes.
+sub-019/eeg/sub-019_task-extstim_events.tsv (text/tsv) 21912 bytes.
+sub-020_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-020/eeg/sub-020_task-extstim_eeg.set (application/octet-stream) 904968 bytes.
+sub-020/eeg/sub-020_task-extstim_events.tsv (text/tsv) 10527 bytes.
+sub-021_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-021/eeg/sub-021_task-extstim_eeg.set (application/octet-stream) 1323888 bytes.
+sub-021/eeg/sub-021_task-extstim_events.tsv (text/tsv) 25064 bytes.
+sub-022_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-022/eeg/sub-022_task-extstim_eeg.set (application/octet-stream) 1127552 bytes.
+sub-022/eeg/sub-022_task-extstim_events.tsv (text/tsv) 21055 bytes.
+sub-023_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-023/eeg/sub-023_task-extstim_eeg.set (application/octet-stream) 1231152 bytes.
+sub-023/eeg/sub-023_task-extstim_events.tsv (text/tsv) 22684 bytes.
+sub-024_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-024/eeg/sub-024_task-extstim_eeg.set (application/octet-stream) 1177584 bytes.
+sub-024/eeg/sub-024_task-extstim_events.tsv (text/tsv) 19127 bytes.
+sub-025_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-025/eeg/sub-025_task-extstim_eeg.set (application/octet-stream) 1221280 bytes.
+sub-025/eeg/sub-025_task-extstim_events.tsv (text/tsv) 23938 bytes.
+sub-026_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-026/eeg/sub-026_task-extstim_eeg.set (application/octet-stream) 1248576 bytes.
+sub-026/eeg/sub-026_task-extstim_events.tsv (text/tsv) 24149 bytes.
+sub-027_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-027/eeg/sub-027_task-extstim_eeg.set (application/octet-stream) 1260584 bytes.
+sub-027/eeg/sub-027_task-extstim_events.tsv (text/tsv) 23510 bytes.
+sub-028_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-028/eeg/sub-028_task-extstim_eeg.set (application/octet-stream) 1179736 bytes.
+sub-028/eeg/sub-028_task-extstim_events.tsv (text/tsv) 22354 bytes.
+sub-029_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-029/eeg/sub-029_task-extstim_eeg.set (application/octet-stream) 1395416 bytes.
+sub-029/eeg/sub-029_task-extstim_events.tsv (text/tsv) 28029 bytes.
+sub-030_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-030/eeg/sub-030_task-extstim_eeg.set (application/octet-stream) 1248496 bytes.
+sub-030/eeg/sub-030_task-extstim_events.tsv (text/tsv) 22230 bytes.
+sub-031_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-031/eeg/sub-031_task-extstim_eeg.set (application/octet-stream) 1285952 bytes.
+sub-031/eeg/sub-031_task-extstim_events.tsv (text/tsv) 25039 bytes.
+sub-032_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-032/eeg/sub-032_task-extstim_eeg.set (application/octet-stream) 1366216 bytes.
+sub-032/eeg/sub-032_task-extstim_events.tsv (text/tsv) 26105 bytes.
+sub-033_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-033/eeg/sub-033_task-extstim_eeg.set (application/octet-stream) 1355392 bytes.
+sub-033/eeg/sub-033_task-extstim_events.tsv (text/tsv) 24426 bytes.
+sub-034_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-034/eeg/sub-034_task-extstim_eeg.set (application/octet-stream) 1133416 bytes.
+sub-034/eeg/sub-034_task-extstim_events.tsv (text/tsv) 20033 bytes.
+sub-035_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-035/eeg/sub-035_task-extstim_eeg.set (application/octet-stream) 1141608 bytes.
+sub-035/eeg/sub-035_task-extstim_events.tsv (text/tsv) 21033 bytes.
+sub-036_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-036/eeg/sub-036_task-extstim_eeg.set (application/octet-stream) 1232408 bytes.
+sub-036/eeg/sub-036_task-extstim_events.tsv (text/tsv) 23980 bytes.
+sub-037_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-037/eeg/sub-037_task-extstim_eeg.set (application/octet-stream) 1156848 bytes.
+sub-037/eeg/sub-037_task-extstim_events.tsv (text/tsv) 20507 bytes.
+sub-038_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-038_task-extstim_eeg.set (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-038/eeg/sub-038_task-extstim_events.tsv (text/tsv) 19341 bytes.
+sub-039_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-039_task-extstim_eeg.set (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-039/eeg/sub-039_task-extstim_events.tsv (text/tsv) 19725 bytes.
+sub-040_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-040_task-extstim_eeg.set (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-040/eeg/sub-040_task-extstim_events.tsv (text/tsv) 20640 bytes.
+sub-041_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-041_task-extstim_eeg.set (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-041/eeg/sub-041_task-extstim_events.tsv (text/tsv) 20563 bytes.
+sub-042_task-extstim_eeg.fdt (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-042_task-extstim_eeg.set (application/octet-stream)  skipped because the total size of the download bundle exceeded the limit of 104857600 bytes.
+sub-042/eeg/sub-042_task-extstim_events.tsv (text/tsv) 26309 bytes.

@@ -1,0 +1,9 @@
+{
+  "Name": "Externally-Cued Movements",
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2020.02.26.966325v3"
+  ],
+  "License": "CC-BY 4.0 - Attribution",
+  "Authors": ["Rosjat, Nils; Wang, Bin A.; Liu, Liqing; Daun, Silvia"],
+  "BIDSVersion": "1.1.1"
+}

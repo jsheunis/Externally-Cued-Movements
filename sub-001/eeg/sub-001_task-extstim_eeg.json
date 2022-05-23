@@ -1,0 +1,19 @@
+{
+  "InstitutionAddress": "Forschungszentrum Juelich, Leo-Brandt-Str. 5, 52425 Juelich, Germany",
+  "InstitutionName": "Forschungszentrum Juelich",
+  "InstitutionalDepartmentName": "Institute for Neurosciences and Medicine - Cognitive Neurosciences (INM-3) - Computational Neurology",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "Brain Products GmbH",
+  "TaskName": "extstim",
+  "MiscChannelCount": 61,
+  "EEGReference": "common",
+  "RecordingType": "epoched",
+  "EpochLength": 4,
+  "RecordingDuration": 4,
+  "SamplingFrequency": 200,
+  "EEGChannelCount": "",
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
