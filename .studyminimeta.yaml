@@ -1,0 +1,96 @@
+#<!-- METADATA START --> # DO NOT DELETE THIS LINE
+# All example text is surrounded with <ex> and </ex>. Please replace the example
+# text including the <ex> and </ex> with your data. Delete all non-applicable
+# lines and sections.
+
+# Attention: indentation is important and must be preserved!
+
+# information on the study the to-be-archived dataset was created for
+
+# mandatory information on to-be-archived dataset
+dataset:
+  # short name or label
+  name: Externally cued movements
+
+  # current location of the dataset
+  location: https://github.com/jsheunis/Externally-Cued-Movements
+
+  # summary of purpose and content of the dataset
+  description:
+    "This dataset includes EEG recordings of 18 younger healthy subjects (18-35yrs) and 24 older healthy subjects (60+yrs) while they performed a visually cued finger tapping task. The task includes a visually-cued index finger tapping task and a vision-only control condition."
+
+  # optional list of employed standard and format
+  # for automatic generation of rich metadata records
+  # (see handbook for full list)
+
+  # optional list of keyword/phrase
+  keyword:
+    - Young
+    - Old
+    - Human
+    - EEG
+    - Finger tapping
+    - Visual cues
+    - Vision-only control
+
+
+  # minimum of one dataset author required
+  author:
+    - n.rosjat@fz-juelich.de
+    - b@example.com
+    - c@example.com
+    - d@example.com
+    - e@example.com
+
+  # optional list of entities that funded the creation of
+  # the dataset. This might also be a single value, i.e.:
+  #`` funding: NIH´´.
+  funding:
+    - Cologne Emerging Group Initiative, Grant/Award Number CONNECT
+    - German Research Foundation (DFG), Grant/Award Number DA1953/5-2
+    - Marga und Walter Boll-Stiftung
+
+
+# one or more publications on or using the dataset, optional
+publication:
+  - title: "Stimulus transformation into motor action: Dynamic graph analysis reveals a posterior-to-anterior shift in brain network communication of older subjects"
+    author:
+      - n.rosjat@fz-juelich.de
+      - b@example.com
+      - c@example.com
+      - d@example.com
+      - e@example.com
+    # when published
+    year: 2021
+    # all other properties are optional
+    # highly recommended to provide a DOI
+    doi: https://doi.org/10.1002/hbm.25313
+    # journal name or publication venue label
+    publication: Human Brain Mapping
+
+# person information, one record for every email-key used above
+person:
+  n.rosjat@fz-juelich.de:
+     given_name: Nils
+     last_name: Rosjat
+     orcid-id: 0000-0002-1977-4642
+  
+  b@example.com:
+     given_name: Bin A.
+     last_name: Wang
+  
+  c@example.com:
+     given_name: Liqing
+     last_name: Liu
+  
+  d@example.com:
+     given_name: Gereon R.
+     last_name: Fink
+     orcid-id: 0000-0002-8230-1856
+  
+  e@example.com:
+     given_name: Silvia
+     last_name: Daun
+     orcid-id: 0000-0001-7342-1015
+
+#<!-- METADATA END -->  # DO NOT DELETE THIS LINE
